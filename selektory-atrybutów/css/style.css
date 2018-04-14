@@ -12,7 +12,7 @@ div[detaliczny*="tak"] {
     background-color: saddlebrown
 }
 
-div[suma^="25"], div[suma^="15"] {
+div[suma^="25"] div[suma^="15"] {
 color:yellow;
 }
 
