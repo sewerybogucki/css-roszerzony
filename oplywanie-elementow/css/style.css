@@ -1,0 +1,22 @@
+img {
+    height:300px;
+   width:300px;
+}
+#gitara1 {
+float:left;
+}
+#gitara2 {
+float:right;
+}
+
+/*
+#gitara1,#gitara2 {
+float:none;
+}
+*/
+
+p:last-child {
+clear:both;
+}
+p {
+text-align: }
