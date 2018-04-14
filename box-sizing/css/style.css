@@ -1,0 +1,17 @@
+* {box-sizing:border-box;}
+
+.box {
+    border: 10px solid orange;
+    display:inline-block;
+    float: left;
+}
+
+body {font-size: 0}
+
+.box {
+    border: 10px, solid orange;
+    float: left;
+    width: 34%;
+    padding: 50px;
+    font-size: 32px;
+}
